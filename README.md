@@ -15,5 +15,6 @@
 * 100 g Gruyere gerieben
 * Pfeffer nach Geschmack
 # Image
-![IMAGE]( e.freepik.com/fotos-kostenlos/fluss-umgeben-von-waeldern-unter-einem-bewoelkten-himmel-in-thueringen-in-deutschland_13291760.htm#query=natur&position=4&from_view=keyword
+![IMAGE]( ![image](https://user-images.githubusercontent.com/120034439/214711595-16b690b9-3169-4283-a698-4eff11f4678f.png)
+
 )
