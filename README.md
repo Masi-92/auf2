@@ -15,8 +15,12 @@
 * 100 g Gruyere gerieben
 * Pfeffer nach Geschmack
 # Image
-![IMAGE]
+![IMAGE](https://user-images.githubusercontent.com/120034439/214711595-16b690b9-3169-4283-a698-4eff11f4678f.png)
 
-(https://user-images.githubusercontent.com/120034439/214711595-16b690b9-3169-4283-a698-4eff11f4678f.png)
+
+**_Fight Club_**
+
+
+>„Du bist nicht deine Arbeit. Du bist nicht dein Kontostand. Du bist nicht das Auto das du fährst. Du bist nicht der Inhalt deiner Geldbörse. Du bist nicht deine scheiß Cargohosen. Du bist der singende und tanzende Abschaum der Welt.“
 
 
