@@ -15,6 +15,6 @@
 * 100 g Gruyere gerieben
 * Pfeffer nach Geschmack
 # Image
-![IMAGE]( ![image](https://user-images.githubusercontent.com/120034439/214711595-16b690b9-3169-4283-a698-4eff11f4678f.png)
+![IMAGE](https://user-images.githubusercontent.com/120034439/214711595-16b690b9-3169-4283-a698-4eff11f4678f.png)
 
-)
+
