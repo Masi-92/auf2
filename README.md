@@ -28,5 +28,5 @@
 
 
 **[The Power of the Dog][1], [Inception][2].**
-[1] https://www.youtube.com/watch?v=xewOJ1BSqsw [The Power of the Dog][1]
-[2] https://www.youtube.com/watch?v=Y_uJYNZehAE [Inception][2]
+[The Power of the Dog](#https://www.youtube.com/watch?v=xewOJ1BSqsw)
+[Inception] (#https://www.youtube.com/watch?v=Y_uJYNZehAE) [Inception]
